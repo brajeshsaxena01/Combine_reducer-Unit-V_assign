@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "todo": "learn Python",
+      "status": false,
+      "id": 2
+    },
+    {
+      "todo": "learn redux",
+      "status": false,
+      "id": 2
+    },
+    {
+      "todo": "",
+      "status": false,
+      "id": 3
+    },
+    {
+      "todo": "English",
+      "status": false,
+      "id": 4
+    },
+    {
+      "todo": "learn react",
+      "status": false,
+      "id": 5
+    },
+    {
+      "todo": "",
+      "status": false,
+      "id": 6
+    },
+    {
+      "todo": "leran mern",
+      "status": false,
+      "id": 7
+    }
+  ]
+}
